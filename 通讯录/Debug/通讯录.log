@@ -1,0 +1,6 @@
+﻿  contact.c
+D:\C语言\通讯录\通讯录\contact.c(97,22): warning C4013: “FindByName”未定义；假设外部返回 int
+D:\C语言\通讯录\通讯录\contact.c(129,25): warning C4090: “函数”: 不同的“const”限定符
+  test.c
+  正在生成代码...
+  通讯录.vcxproj -> D:\C语言\通讯录\Debug\通讯录.exe
